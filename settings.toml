@@ -1,0 +1,4 @@
+# Environment Variables
+CIRCUITPY_WIFI_SSID = "your_wifi_ssid"
+CIRCUITPY_WIFI_PASSWORD = "your_wifi_password"
+SEND_URL = "your_webhook_send_url"
